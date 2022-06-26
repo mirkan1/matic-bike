@@ -1,0 +1,19 @@
+{
+  "name": "matic-bike",
+  "version": "1.0.0",
+  "description": "renting bike in NY using matic network and user trust",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "matic",
+    "polygon",
+    "metamask",
+    "walletconnect",
+    "eth"
+  ],
+  "author": "mirkan1",
+  "license": "ISC"
+}
